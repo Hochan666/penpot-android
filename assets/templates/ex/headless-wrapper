@@ -1,0 +1,2 @@
+#!/bin/sh
+exec "/opt/penpot/browsers/chromium_headless_shell-1234/chrome-linux/headless_shell.real" --no-sandbox --disable-setuid-sandbox --disable-dev-shm-usage --disable-gpu --disable-software-rasterizer --single-process --enable-features=NetworkServiceInProcess --allow-insecure-localhost --font-render-hinting=none "$@"

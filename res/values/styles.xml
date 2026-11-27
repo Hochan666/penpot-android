@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.PenpotDark" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#FF070A18</item>
+        <item name="android:statusBarColor">#FF0A0E20</item>
+        <item name="android:navigationBarColor">#FF05070F</item>
+        <item name="android:colorPrimary">#FF31EFB9</item>
+        <item name="android:colorAccent">#FF9B7BFF</item>
+        <item name="android:textColorPrimary">#FFE9EDFA</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

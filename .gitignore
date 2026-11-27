@@ -1,0 +1,28 @@
+# 构建产物
+/build/
+classes/
+gen/
+*.apk
+aligned.apk
+unsigned.apk
+*.dex
+
+# 签名密钥与本地配置
+penpot.keystore
+*.jks
+*.keystore
+local.properties
+
+# 编辑器 / 系统
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# 临时文件
+_c.dex
+_v.dex
+chk/
+_check*/
+_pgcheck*/
+*.log
