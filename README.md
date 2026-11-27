@@ -1,8 +1,23 @@
 # 📦 Penpot Android — 把 Penpot 装进你的手机
 
+<p align="center">
+  <img src="https://img.shields.io/badge/version-2.4-31EFB9?style=flat-square" alt="version" />
+  <img src="https://img.shields.io/badge/Android-7.0%2B%20(API%2024)-3DDC84?style=flat-square&logo=android&logoColor=white" alt="android" />
+  <img src="https://img.shields.io/badge/arch-arm64--v8a-9B7BFF?style=flat-square" alt="arch" />
+  <img src="https://img.shields.io/badge/Docker-not%20required-2496ED?style=flat-square&logo=docker&logoColor=white" alt="no docker" />
+  <img src="https://img.shields.io/badge/root-not%20required-FF6B6B?style=flat-square" alt="no root" />
+  <img src="https://img.shields.io/badge/license-free%20%2F%20non--commercial-FFB84D?style=flat-square" alt="license" />
+</p>
+
 **在 Android 手机上直接运行完整的 Penpot 设计服务，局域网一键访问。无需 PC、无需服务器、无需 Docker。**
 
-> 一是个"运行环境容器"：装好 App、点一下按钮，它会自己把 PostgreSQL、Valkey、Penpot 前端 / 后端 / 导出器全部拉齐并跑起来。
+> 它是一个「运行环境容器」：装好 App、点一下按钮，它会自己把 PostgreSQL、Valkey、Penpot 前端 / 后端 / 导出器全部拉齐并跑起来。
+
+<p align="center">
+  <a href="https://github.com/Hochan666/penpot-android/releases/latest">
+    <img src="https://img.shields.io/badge/⬇️_下载_APK-v2.4-31EFB9?style=for-the-badge" alt="Download APK" />
+  </a>
+</p>
 
 <a href="#cn">**中文**</a> · <a href="#en">**English**</a> · <a href="#install">**📥 下载安装**</a> · <a href="#faq">**❓ FAQ**</a>
 
