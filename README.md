@@ -1,4 +1,4 @@
-# 📦 Penpot Android — 把 Penpot 装进你的手机
+# 📦 Penpot Android — 把Figma的平替工具【Penpot】装进你的手机
 
 <p align="center">
   <img src="docs/images/banner.svg" alt="Penpot Android — 在手机上运行完整 Penpot 设计服务" width="100%" />
