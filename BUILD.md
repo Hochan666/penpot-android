@@ -83,7 +83,15 @@ dsh_alpine [-m guest:host]... <rootfs> <interp> <guest> [args...]
 - `busybox` 以及 `busybox --install -s /bin` 建立的全套 applet 软链
 - `opt/shim/` 下的三个 `LD_PRELOAD` 垫片 + 启动脚本
 
-打包命令：
+**这个文件不在 Git 仓库里**（22MB 二进制，不适合放进历史）。构建前先下载到 `assets/`：
+
+```bash
+# 已发布在 Release 上，直接下
+curl -L -o assets/base.tar.zst \
+  https://github.com/Hochan666/penpot-android/releases/download/v2.4/base.tar.zst
+```
+
+如果你要自己从零制作（需要有完整的 Alpine rootfs），打包命令是：
 
 ```bash
 tar --format=ustar -cf - -C base-min . | zstd -q -o assets/base.tar.zst
