@@ -1,6 +1,10 @@
 # 📦 Penpot Android — 把 Penpot 装进你的手机
 
 <p align="center">
+  <img src="docs/images/banner.svg" alt="Penpot Android — 在手机上运行完整 Penpot 设计服务" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/version-2.4-31EFB9?style=flat-square" alt="version" />
   <img src="https://img.shields.io/badge/Android-7.0%2B%20(API%2024)-3DDC84?style=flat-square&logo=android&logoColor=white" alt="android" />
   <img src="https://img.shields.io/badge/arch-arm64--v8a-9B7BFF?style=flat-square" alt="arch" />
