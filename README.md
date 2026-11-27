@@ -4,7 +4,7 @@
 
 > 一是个"运行环境容器"：装好 App、点一下按钮，它会自己把 PostgreSQL、Valkey、Penpot 前端 / 后端 / 导出器全部拉齐并跑起来。
 
-[**中文**](#-中文) · [**English**](#-english) · [📥 下载 APK](#-下载与安装--download--install) · [❓ 常见问题](#-常见问题--faq)
+<a href="#cn">**中文**</a> · <a href="#en">**English**</a> · <a href="#install">**📥 下载安装**</a> · <a href="#faq">**❓ FAQ**</a>
 
 ---
 
@@ -16,6 +16,8 @@
 <p align="center"><sub>← 主界面（运行中，自动显示局域网地址） &nbsp;&nbsp;&nbsp; 设置页（检查更新 / 下载并更新） →</sub></p>
 
 ---
+
+<a id="cn"></a>
 
 ## 🌐 中文
 
@@ -130,9 +132,11 @@ Penpot 官方只发布 Docker 镜像。App 内置了一个完整的 **OCI Regist
 - 发现新版 → 出现【下载并更新】按钮 → 二次确认（写明下载量 / 停机时间 / 数据保留承诺）→ 全自动执行
 - 数据安全说明 & 更新日志
 
+<a id="install"></a>
+
 ### 📥 下载与安装 / Download & Install
 
-**下载**：从本仓库 [Releases](../../releases) 页面下载 `Penpot服务.apk`（约 22 MB）。
+**下载**：从本仓库 [Releases](https://github.com/Hochan666/penpot-android/releases) 页面下载 `Penpot-Android-v2.4.apk`（约 22 MB）。
 
 **安装**
 1. 手机上点开 APK → 允许「安装未知来源应用」
@@ -202,7 +206,11 @@ Penpot 及其 Logo 为 Kaleidos 的商标，本项目与其无隶属关系。
 - [Kaleidos](https://kaleidos.net) — Penpot 背后的团队
 - Alpine Linux、PostgreSQL、Valkey、nginx、Eclipse Temurin JRE
 
+<p align="right"><a href="#en">🇬🇧 Read in English ↓</a></p>
+
 ---
+
+<a id="en"></a>
 
 ## 🌐 English
 
@@ -317,7 +325,7 @@ The data directory `base/var/lib/postgresql/data` is **never touched**, so accou
 
 ### 📥 Download & Install
 
-**Download**: grab `Penpot服务.apk` (~22 MB) from this repo's [Releases](../../releases) page.
+**Download**: grab `Penpot-Android-v2.4.apk` (~22 MB) from this repo's [Releases](https://github.com/Hochan666/penpot-android/releases) page.
 
 **Install**
 1. Open the APK on your phone → allow "install from unknown sources"
@@ -391,7 +399,11 @@ See [LICENSE](LICENSE) for the full text.
 - [Kaleidos](https://kaleidos.net) — the team behind Penpot
 - Alpine Linux, PostgreSQL, Valkey, nginx, Eclipse Temurin JRE
 
+<p align="right"><a href="#cn">🇨🇳 阅读中文版 ↑</a></p>
+
 ---
+
+<a id="faq"></a>
 
 ## ❓ 常见问题 / FAQ
 
