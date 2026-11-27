@@ -35,7 +35,7 @@
 <p align="center"><sub>← 主界面（运行中，自动显示局域网地址） &nbsp;&nbsp;&nbsp; 设置页（检查更新 / 下载并更新） →</sub></p>
 
 <p align="center">
-  <img src="docs/images/penpot-web.jpg" width="78%" alt="在同一局域网的电脑浏览器中打开 Penpot" />
+  <img src="docs/images/penpot-web.jpg" width="100%" alt="在同一局域网的电脑浏览器中打开 Penpot" />
 </p>
 
 <p align="center"><sub>↑ 同一局域网内的电脑 / 平板浏览器直接打开 <code>http://&lt;手机IP&gt;:3449</code>，就是完整的 Penpot 网页版</sub></p>
